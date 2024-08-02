@@ -100,5 +100,5 @@ https://learn.microsoft.com/en-us/azure/databricks/ingestion/auto-loader/schema
 print("push code from Notebook to Github Repo1")
 
 # COMMAND ----------
-
+print("push code from github to notebook")
 
